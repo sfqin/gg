@@ -1,0 +1,72 @@
+
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "Documentation on g的博客",
+    "description": "Recent content in Documentation on g的博客",
+    "home_page_url": "http://localhost:1313/",
+    "feed_url": "http://localhost:1313/documentation/index.json",
+    "language": "en-GB",
+    "icon": "http://localhost:1313/apple-touch-icon.png",
+    "favicon": "http://localhost:1313/apple-touch-icon.png",
+    "authors": [
+        {
+            "name": "Your Name",
+            "url": "https://example.org/somepage",
+            "avatar": "http://localhost:1313/path/to/some-image.jpg"
+        }
+    ],
+    "items": [
+        {
+            "title": "第一步",
+            "date_published": "0001-01-01T00:00:00Z",
+            "date_modified": "0001-01-01T00:00:00Z",
+            "id": "http://localhost:1313/documentation/configuration/",
+            "url": "http://localhost:1313/documentation/configuration/",
+            "authors": [
+                {
+                  "name": "game"
+                }
+            ],
+            "content_html": "\u003cp\u003e这是我的第一步\u003c/p\u003e\n"
+        },
+        {
+            "title": "第三步",
+            "date_published": "0001-01-01T00:00:00Z",
+            "date_modified": "0001-01-01T00:00:00Z",
+            "id": "http://localhost:1313/documentation/install/",
+            "url": "http://localhost:1313/documentation/install/",
+            "authors": [
+                {
+                  "name": "human"
+                }
+            ],
+            "content_html": "\u003cp\u003e站起来\u003c/p\u003e\n"
+        },
+        {
+            "title": "第二步",
+            "date_published": "0001-01-01T00:00:00Z",
+            "date_modified": "0001-01-01T00:00:00Z",
+            "id": "http://localhost:1313/documentation/create-theme/",
+            "url": "http://localhost:1313/documentation/create-theme/",
+            "authors": [
+                {
+                  "name": "god"
+                }
+            ],
+            "content_html": "\u003cp\u003e第二步呢\u003c/p\u003e\n"
+        },
+        {
+            "title": "第四步",
+            "date_published": "0001-01-01T00:00:00Z",
+            "date_modified": "0001-01-01T00:00:00Z",
+            "id": "http://localhost:1313/documentation/quickstart/",
+            "url": "http://localhost:1313/documentation/quickstart/",
+            "authors": [
+                {
+                  "name": "apple"
+                }
+            ],
+            "content_html": "\u003cp\u003e又躺下来了\u003c/p\u003e\n"
+        }
+        ]
+}

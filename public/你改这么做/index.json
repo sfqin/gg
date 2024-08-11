@@ -1,0 +1,33 @@
+
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "你改这么做 on d的博客",
+    "description": "Recent content in 你改这么做 on d的博客",
+    "home_page_url": "http://localhost:1313/",
+    "feed_url": "http://localhost:1313/%E4%BD%A0%E6%94%B9%E8%BF%99%E4%B9%88%E5%81%9A/index.json",
+    "language": "en-GB",
+    "icon": "http://localhost:1313/apple-touch-icon.png",
+    "favicon": "http://localhost:1313/apple-touch-icon.png",
+    "authors": [
+        {
+            "name": "Your Name",
+            "url": "https://example.org/somepage",
+            "avatar": "http://localhost:1313/path/to/some-image.jpg"
+        }
+    ],
+    "items": [
+        {
+            "title": "第一步",
+            "date_published": "0001-01-01T00:00:00Z",
+            "date_modified": "0001-01-01T00:00:00Z",
+            "id": "http://localhost:1313/%E4%BD%A0%E6%94%B9%E8%BF%99%E4%B9%88%E5%81%9A/configuration/",
+            "url": "http://localhost:1313/%E4%BD%A0%E6%94%B9%E8%BF%99%E4%B9%88%E5%81%9A/configuration/",
+            "authors": [
+                {
+                  "name": "game"
+                }
+            ],
+            "content_html": "\u003cp\u003e这是我的第一步\u003c/p\u003e\n"
+        }
+        ]
+}

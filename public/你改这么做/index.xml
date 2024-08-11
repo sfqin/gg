@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>你改这么做 on d的博客</title>
+    <link>http://localhost:1313/%E4%BD%A0%E6%94%B9%E8%BF%99%E4%B9%88%E5%81%9A/</link>
+    <description>Recent content in 你改这么做 on d的博客</description>
+    <generator>Hugo</generator>
+    <language>en-GB</language>
+      <atom:link href="http://localhost:1313/%E4%BD%A0%E6%94%B9%E8%BF%99%E4%B9%88%E5%81%9A/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一步</title>
+      <link>http://localhost:1313/%E4%BD%A0%E6%94%B9%E8%BF%99%E4%B9%88%E5%81%9A/configuration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/%E4%BD%A0%E6%94%B9%E8%BF%99%E4%B9%88%E5%81%9A/configuration/</guid>
+      <description>&lt;p&gt;这是我的第一步&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>
